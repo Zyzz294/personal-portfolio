@@ -1,3 +1,12 @@
+# Personal Portfolio with ReactJS
+
+## Author
+
+Hamza Özgezici (Zyzz294)
+
+# Demo
+
+The app is deployed using Vercel at [Personal Portfolio Link](https://personal-portfolio-five-jade.vercel.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
